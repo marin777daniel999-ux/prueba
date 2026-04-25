@@ -24,7 +24,7 @@ public class Principal {
         System.out.println("3. Consultar cuenta vieja");
         System.out.println("4. Eliminar cuenta ya y ya");
         System.out.println("5. Listar cuentas");
-        System.out.println("6. Transacciones");
+        System.out.println("6. Transacciones de prueba");
         System.out.println("7. Salir hola lololol");
 
         String op = sc.next();
