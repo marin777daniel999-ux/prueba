@@ -21,8 +21,8 @@ public class Principal {
 
         System.out.println("\n1. Abrir banco");
         System.out.println("2. Crear cuenta");
-        System.out.println("3. Consultar cuenta");
-        System.out.println("4. Eliminar cuenta");
+        System.out.println("3. Consultar cuenta vieja");
+        System.out.println("4. Eliminar cuenta lololo");
         System.out.println("5. Listar cuentas");
         System.out.println("6. Transacciones");
         System.out.println("7. Salir");
