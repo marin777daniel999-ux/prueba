@@ -22,7 +22,7 @@ public class Principal {
         System.out.println("\n1. Abrir banco");
         System.out.println("2. Crear cuenta nueva otrraaaa");
         System.out.println("3. Consultar cuenta vieja");
-        System.out.println("4. Eliminar cuenta ya");
+        System.out.println("4. Eliminar cuenta ya y ya");
         System.out.println("5. Listar cuentas");
         System.out.println("6. Transacciones");
         System.out.println("7. Salir hola lololol");
