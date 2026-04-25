@@ -25,7 +25,7 @@ public class Principal {
         System.out.println("4. Eliminar cuenta lololo");
         System.out.println("5. Listar cuentas");
         System.out.println("6. Transacciones");
-        System.out.println("7. Salir");
+        System.out.println("7. Salir h");
 
         String op = sc.next();
 
